@@ -12,3 +12,5 @@ gradle
 gradlew
 .gradle
 build
+.pmd
+.factorypath
